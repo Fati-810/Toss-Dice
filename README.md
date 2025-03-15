@@ -2,6 +2,7 @@
 The Toss Dice website is a simple virtual dice-rolling application that allows users to simulate rolling a dice with a click. It provides a fun and interactive way to generate random dice outcomes, useful for games, decision-making, or just for fun.
 
 🔹 # Features:
+
 ✔️ Roll a Dice Button: Click to generate a random dice outcome. 
 
 ✔️ Random Dice Faces: The website displays a random number between 1 and 6. 
