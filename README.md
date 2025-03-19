@@ -1,7 +1,7 @@
 # Toss Dice
 The Toss Dice website is a simple virtual dice-rolling application that allows users to simulate rolling a dice with a click. It provides a fun and interactive way to generate random dice outcomes, useful for games, decision-making, or just for fun.
 
-#🔹Features:
+# 🔹Features:
 
 ✔️ Roll a Dice Button: Click to generate a random dice outcome. 
 
@@ -29,7 +29,7 @@ Use it for decision-making (e.g., odd/even choices).
 
 Roll multiple times and enjoy the randomness!
 
-#🔹Technical Overview (Behind the Scenes):
+# Technical Overview (Behind the Scenes):
 
 Built with HTML, CSS, and JavaScript for structure, styling, and interactivity.
 
