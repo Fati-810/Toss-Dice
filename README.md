@@ -45,5 +45,5 @@ Developer: Fatimah Ali
 Website: fatimahdigitaledge.com
 GitHub: github.com/fati-810
 
-## 📜 License:
+## License:
 This project is for educational and portfolio purposes.
