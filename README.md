@@ -1,7 +1,7 @@
 # Toss a Dice
 The Toss Dice website is a **simple virtual dice-rolling application** that allows users to simulate rolling a dice with a click. It provides a **fun** and **interactive** way to generate random dice outcomes, **useful** for games, decision-making, or just for fun.
 
-# Features:
+## Features:
 
 🎲 Roll a Dice Button: Click to generate a random dice outcome. 
 
@@ -13,13 +13,13 @@ The Toss Dice website is a **simple virtual dice-rolling application** that allo
 
 ⚡ Instant Results: No delays, instant dice roll results.
 
-# How to Play :
+## How to Play :
    
 Refresh page for each Turn.
 
 The dice will display a randomly generated number between 1 and 6.
 
-# Use it for Fun or Games:
+## Use it for Fun or Games:
    
 Play board games without a physical dice.
 
@@ -27,7 +27,7 @@ Use it for decision-making (e.g., odd/even choices).
 
 Roll multiple times and enjoy the randomness!
 
-# Technical Overview: (Behind the Scenes)
+## Technical Overview: (Behind the Scenes)
 
 Built with HTML, CSS, and JavaScript for structure, styling, and interactivity.
 
@@ -35,15 +35,15 @@ JavaScript Math.random() function generates random dice rolls.
 
 DOM Manipulation updates the dice face dynamically.
 
-# Link:
+## Link:
 https://fati-810.github.io/Toss-Dice/
 
-# Contact:
+## Contact:
 If you'd like to see more of my work, connect with me through my portfolio:
 
 Developer: Fatimah Ali
 Website: fatimahdigitaledge.com
 GitHub: github.com/fati-810
 
-# 📜 License:
+## 📜 License:
 This project is for educational and portfolio purposes.
