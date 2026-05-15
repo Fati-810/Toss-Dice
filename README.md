@@ -13,7 +13,7 @@ The Toss Dice website is a **simple virtual dice-rolling application** that allo
 
 ⚡ Instant Results: No delays, instant dice roll results.
 
-## How to Play :
+## How to Play:
    
 Refresh page for each Turn.
 
