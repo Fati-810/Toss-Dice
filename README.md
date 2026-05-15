@@ -35,7 +35,7 @@ JavaScript Math.random() function generates random dice rolls.
 
 DOM Manipulation updates the dice face dynamically.
 
-## Link:
+## Preview:
 https://fati-810.github.io/Toss-Dice/
 
 ## Contact:
